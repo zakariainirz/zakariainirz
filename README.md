@@ -8,7 +8,9 @@ FullStack Developper and Designer
 * ✉️  You can contact me at [zakariainirz1@gmail.com](mailto:zakariainirz1@gmail.com)
 
 <a href="https://www.github.com/zakariainirz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/zakariainirz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/zakariainirz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/InirzZakaria" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/InirzZakaria?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
 ### Skills
 
@@ -43,7 +45,7 @@ src="https://img.shields.io/github/followers/zakariainirz?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/zakariainirz"><img src="https://github-readme-stats.vercel.app/api?username=zakariainirz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zakariainirz's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/zakariainirz"><img src="https://github-readme-stats.vercel.app/api?username=zakariainirz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zakariainirz's GitHub stats" /></a> -->
 
 <a href="http://www.github.com/zakariainirz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariainirz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
