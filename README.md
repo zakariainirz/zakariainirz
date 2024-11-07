@@ -5,7 +5,7 @@ FullStack Developper and Designer
 ---------------------------------
 
 * 🌍  I'm based in Morocco
-* ✉️  You can contact me at [zakariainirz1@gmail.com](mailto:zakariainirz1@gmail.com)
+* ✉️  You can contact me at [inirz.zakaria@gmail.com](mailto:inirz.zakaria@gmail.com)
 
 <a href="https://www.github.com/zakariainirz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/zakariainirz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/InirzZakaria" target="_blank" rel="noreferrer"><img
